@@ -39,3 +39,30 @@ I started my own business as a Sole Proprietor. I made websites, supported them 
 	* Windows (10)
 	* Linux (Ubuntu, Debian)
 	* Mac OS X
+
+## Code example
+A simple class for working with cart.
+
+```
+class Cart {
+  constructor() {
+    this.items = [];
+  }
+
+  addItem(item, count) {
+    this.items.push({ item, count });
+  }
+
+  getItems() {
+    return this.items;
+  }
+
+  getCost() {
+    const cost = this.items.reduce((acc, current) => acc + current.item.price * current.count, 0);
+    return cost;
+  }
+
+  getCount() {
+    return this.items.reduce((acc, current) => acc + current.count, 0);
+  }
+}
