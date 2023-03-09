@@ -66,3 +66,4 @@ class Cart {
     return this.items.reduce((acc, current) => acc + current.count, 0);
   }
 }
+```
