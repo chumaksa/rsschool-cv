@@ -70,3 +70,9 @@ class Cart {
 ## Education
 * Kuban State Technological University
 	* Faculty of Computer Technologies and Automated Systems
+
+## Examples of my work
+* [Website of the law firm ](https://bslc.ru/)
+* [Website of the Center for Ophthalmosurgery IRIS](https://iris-center.ru/)
+* [Website of the juice company](https://ekspress-kuban.ru/)
+* [Website of dentistry](https://andromedaclinic.ru/)
