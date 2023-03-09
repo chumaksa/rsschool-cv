@@ -67,3 +67,6 @@ class Cart {
   }
 }
 ```
+## Education
+* Kuban State Technological University
+	* Faculty of Computer Technologies and Automated Systems
