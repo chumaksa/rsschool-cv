@@ -76,3 +76,7 @@ class Cart {
 * [Website of the Center for Ophthalmosurgery IRIS](https://iris-center.ru/)
 * [Website of the juice company](https://ekspress-kuban.ru/)
 * [Website of dentistry](https://andromedaclinic.ru/)
+
+## Languages
+* Russian - native speaker.
+* English - A2
